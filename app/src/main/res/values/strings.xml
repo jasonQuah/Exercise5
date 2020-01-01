@@ -2,6 +2,6 @@
     <string name="app_name">Like/Dislike</string>
     <string name="like">#</string>
     <string name="dislike">#</string>
-    <string name="like1">Thumbs Up</string>
-    <string name="dislike1">Thumbs Down</string>
+    <string name="up">Thumbs Up</string>
+    <string name="down">Thumbs Down</string>
 </resources>
