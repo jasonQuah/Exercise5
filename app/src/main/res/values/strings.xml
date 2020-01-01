@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Like/Dislike</string>
+    <string name="like">#</string>
+    <string name="dislike">#</string>
+    <string name="like1">Thumbs Up</string>
+    <string name="dislike1">Thumbs Down</string>
+</resources>
